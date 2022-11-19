@@ -14,7 +14,7 @@
     height: 100vh;
   }
   
-  #circle {
+  .circle {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,7 +39,7 @@
     opacity: 1;
     transition: 0.3s;  }
 
-    #circle2 {
+    .circle2 {
         display: flex;
         justify-content: center;
         align-items: center;
@@ -85,7 +85,4 @@
           
 
 
-  .btn:#circle {
-    background-color: #3e8e41;
-    color: rgb(255, 0, 0);
-  }
+  
